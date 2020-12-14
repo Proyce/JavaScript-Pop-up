@@ -1,4 +1,3 @@
-const popup = document.querySelector('.popup');
 const close_popup = document.querySelector('.close-popup');
 const button = document.querySelector('.popup-btn');
 const background = document.querySelector('.container');
